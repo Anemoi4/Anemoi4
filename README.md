@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Anemoi4
+- 👋 Hi, I’m Emil Frisk
 - 👀 I’m interested in becoming web developer
 - 🌱 I’m currently learning javascript and react
-- 📫 How to reach me: gmail | incrassatum9876@gmail.com
+- 📫 How to reach me: friskemil2@gmail.com
 
 <!---
 Anemoi4/Anemoi4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
